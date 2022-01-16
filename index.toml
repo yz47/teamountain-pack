@@ -1,0 +1,16 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/chat-heads.toml"
+hash = "1a722a1dd8932d9f319edfa48df967ef7278566ab9ccb6d7e2dd3eeb883ef415"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "5cca0414a7bc523e68acc708e5659e5345e647193ab84057cd15cebcef538303"
+metafile = true
