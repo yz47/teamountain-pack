@@ -11,8 +11,23 @@ hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
 metafile = true
 
 [[files]]
+file = "mods/lithium.toml"
+hash = "8336f0e1553fb60080e1d0230a851711d268d72379e1377ebf040ae8faca3f7f"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "96ed04f6ee09c1b734bdd03514811f85b0fc79266d886949404dbde5b7919c28"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.toml"
 hash = "5cca0414a7bc523e68acc708e5659e5345e647193ab84057cd15cebcef538303"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "ba04c6dcfbf7def36b7b0d98331ba663a4a3044c1bba93770c27e548e7912480"
 metafile = true
 
 [[files]]
