@@ -9,16 +9,26 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "900e99557a430a2e5fb785eab87e0836b3b421ec56a4c50395c139bed9139f39"
 
 [[files]]
+file = "mods/fast-furnace-for-fabric.toml"
+hash = "9ea34bd53ee193c659de4a08c0019e3978b649ea94577ff85cff6e79e546abd4"
+metafile = true
+
+[[files]]
+file = "mods/fastbench-for-fabric.toml"
+hash = "f533a7fcf67dc8173057d48055697bbd230651a5afa1a61423463dc88cc1a9ca"
+metafile = true
+
+[[files]]
 file = "mods/lithium.toml"
 hash = "8336f0e1553fb60080e1d0230a851711d268d72379e1377ebf040ae8faca3f7f"
 metafile = true
 
 [[files]]
-file = "mods/phosphor.toml"
-hash = "96ed04f6ee09c1b734bdd03514811f85b0fc79266d886949404dbde5b7919c28"
+file = "mods/simple-voice-chat.toml"
+hash = "5cca0414a7bc523e68acc708e5659e5345e647193ab84057cd15cebcef538303"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.toml"
-hash = "5cca0414a7bc523e68acc708e5659e5345e647193ab84057cd15cebcef538303"
+file = "mods/starlight.toml"
+hash = "ba04c6dcfbf7def36b7b0d98331ba663a4a3044c1bba93770c27e548e7912480"
 metafile = true
