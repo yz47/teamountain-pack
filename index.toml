@@ -14,11 +14,6 @@ hash = "9ea34bd53ee193c659de4a08c0019e3978b649ea94577ff85cff6e79e546abd4"
 metafile = true
 
 [[files]]
-file = "mods/fastbench-for-fabric.toml"
-hash = "f533a7fcf67dc8173057d48055697bbd230651a5afa1a61423463dc88cc1a9ca"
-metafile = true
-
-[[files]]
 file = "mods/lithium.toml"
 hash = "8336f0e1553fb60080e1d0230a851711d268d72379e1377ebf040ae8faca3f7f"
 metafile = true
