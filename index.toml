@@ -6,17 +6,7 @@ hash = "08fec15f2de866253ae588500faf91fe3405bc7a2fd89d1f969daa50cc33e6e9"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "f0874c3e2778803c8d3687ce741bb1b4c413501fdba6acd2c577977268ffd59e"
-
-[[files]]
-file = "mods/chat-heads.toml"
-hash = "1a722a1dd8932d9f319edfa48df967ef7278566ab9ccb6d7e2dd3eeb883ef415"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.toml"
-hash = "86659374a4bd799a6ddc3123eb909fff79d7b01a48131f2caef8e6bfedb41f11"
-metafile = true
+hash = "900e99557a430a2e5fb785eab87e0836b3b421ec56a4c50395c139bed9139f39"
 
 [[files]]
 file = "mods/lithium.toml"
@@ -31,9 +21,4 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.toml"
 hash = "5cca0414a7bc523e68acc708e5659e5345e647193ab84057cd15cebcef538303"
-metafile = true
-
-[[files]]
-file = "mods/tellme.toml"
-hash = "007df4c1436df46ab96bcdff5394aac9aaa46313f6115ac3ae597159df51f161"
 metafile = true
