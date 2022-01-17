@@ -6,7 +6,7 @@ hash = "08fec15f2de866253ae588500faf91fe3405bc7a2fd89d1f969daa50cc33e6e9"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "9629dbd757d434cb395fae9162b8bddb427b6b64e7137e8e04ca25f0eb558d8a"
+hash = "f0874c3e2778803c8d3687ce741bb1b4c413501fdba6acd2c577977268ffd59e"
 
 [[files]]
 file = "mods/chat-heads.toml"
