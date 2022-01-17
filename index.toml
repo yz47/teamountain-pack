@@ -14,3 +14,8 @@ metafile = true
 file = "mods/simple-voice-chat.toml"
 hash = "5cca0414a7bc523e68acc708e5659e5345e647193ab84057cd15cebcef538303"
 metafile = true
+
+[[files]]
+file = "mods/tellme.toml"
+hash = "007df4c1436df46ab96bcdff5394aac9aaa46313f6115ac3ae597159df51f161"
+metafile = true
