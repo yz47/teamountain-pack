@@ -1,6 +1,190 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".git/COMMIT_EDITMSG"
+hash = "04a92ccb63cc480a7f168f4b243545dadeb41ff532aed6cbfb256bfec681d59d"
+
+[[files]]
+file = ".git/FETCH_HEAD"
+hash = "03a5cb19148f1fec20b55503e4893b4ff82bf88e0e3976e7b2120782615b7759"
+
+[[files]]
+file = ".git/HEAD"
+hash = "f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10"
+
+[[files]]
+file = ".git/config"
+hash = "78360c78df610aeec380b7cb52814f963f323ab022aa340293c59992d7bb21f6"
+
+[[files]]
+file = ".git/index"
+hash = "8157b3082769d2860abb21fa8915952a1d36728e5bef0381e3e9a9103d8ddcaf"
+
+[[files]]
+file = ".git/logs/HEAD"
+hash = "de76ff401b12170ce6e50fbfc7a7248ec4b781c535da520fa0accdd51aec601a"
+
+[[files]]
+file = ".git/logs/refs/heads/master"
+hash = "de76ff401b12170ce6e50fbfc7a7248ec4b781c535da520fa0accdd51aec601a"
+
+[[files]]
+file = ".git/logs/refs/remotes/origin/master"
+hash = "f5285b7b9ad66663f41e78fe1752fc2553d11fda937b1b973251f183c18a72f0"
+
+[[files]]
+file = ".git/objects/0e/d8ad3dd6c4f9d98e753538f240b6d2693c14d5"
+hash = "83bcb9eb52d29350b5abc660b932857b33e35a31c60b3b5402bb46535257c1a6"
+
+[[files]]
+file = ".git/objects/16/3485e189a8547ec9cf6d0efd4fbdfb32367b27"
+hash = "5da490e9595242cb7cafded449023be94f1d860283f646248d951a275eb3090e"
+
+[[files]]
+file = ".git/objects/21/6a84ed13b984f1020b34c30e7a69be6c0f4e5b"
+hash = "3d4f12b46617344923ca86b71f3fd39186f9d87b9d250c0b43aad19fc8d1c8b3"
+
+[[files]]
+file = ".git/objects/28/8ebaa1a733d9609dba83a7f1f953f701ca6471"
+hash = "2d804b88cf0b675fb43c292da4b4b6dc569313442fda7bb8359e5d6a3307d466"
+
+[[files]]
+file = ".git/objects/29/248691bbe2ffb0fbcd84135812027f91ac5eb8"
+hash = "b058026d4db80db84d0d6e5c891b992f0e355b77f3de12d1bdda5830526832cd"
+
+[[files]]
+file = ".git/objects/2f/4149f40d304efadf7a941d242e999af247d20c"
+hash = "5c3a2ced340bec360b5c40e3fd712b6c80ea78ae2ca78e7ee9ba5ccced9674a8"
+
+[[files]]
+file = ".git/objects/3a/dd5d538acb2c6f8143d8940f7fdd8ba165a72e"
+hash = "7cb3343a3f6bbab33eb9f5bf8d1ff8131f32d9068053f07edab21ae8d8b14f1f"
+
+[[files]]
+file = ".git/objects/4e/4a7070cab8e4be75b556da45f3239fd63a4139"
+hash = "fbc863492436b8eb49ff7d06bcf489e44cec2c235598fce6ceb1af6b43f9b463"
+
+[[files]]
+file = ".git/objects/4f/935cca44b16b618cd19f1bba92b28b7cd8a9ae"
+hash = "6d46b7b24a6ab2b3f0cffb1f831a1936298c3760134be5a8dfad93c600efc1fb"
+
+[[files]]
+file = ".git/objects/58/0e359281b83cc3b3bba86cb6cee7175864ac50"
+hash = "4cfe7fbfd112363710c6a8842acea499ac96b4f1b3409495129bd6134fadd49f"
+
+[[files]]
+file = ".git/objects/5b/5148b0d4351b931ec9d8ce248bded597e76471"
+hash = "bedba179a6483ace14422ce2045f49681022c1fae193adf4539c5011df6f0e89"
+
+[[files]]
+file = ".git/objects/5c/34b438c3aa35ec7016d92b8dcb318459908d86"
+hash = "fef27a96e447d659f656d8ab48e64f8b4784eb40325ab8047827e536d29e03f7"
+
+[[files]]
+file = ".git/objects/5f/090280822a88e2dcc4eb5552c430d6f941563a"
+hash = "d3c63336507617915c42470d0dcb1707e4504ba12b277d1d8543e531991cb83a"
+
+[[files]]
+file = ".git/objects/6a/fa8547b0e16858fbbdd82073cc7b7f0dc17905"
+hash = "1a786a7020f80a71a4674e59609f9e892815c2a4df2431b9cc3a6782b13a0590"
+
+[[files]]
+file = ".git/objects/6b/ed8603f7ae3299e5a61d910c81bd56f621275d"
+hash = "2e1d7c519d915419b550c6a5937f4840a6348556b013a8d536c245fbb42083ed"
+
+[[files]]
+file = ".git/objects/6f/86312f9ce3c5ea9c46f17e4c6a2636e67b33ef"
+hash = "c4d720608b7d8d6c24d8c01ccf181fc11d72c2a21bc54f003abdbcf112f69d21"
+
+[[files]]
+file = ".git/objects/70/23e45e7ad6dcc7f834068be2f8031779830ce2"
+hash = "bb2487ed14b64dd5898e9e201d6002a946d7c4bc331e55953f8ab1b2eaabf34a"
+
+[[files]]
+file = ".git/objects/7c/8016b3ad9b076f4223a7c97bbc40da729c2bb8"
+hash = "aec6112ae35f3c36f5876c5826cbcda466255cce7bfa29c6a67e03a07822b369"
+
+[[files]]
+file = ".git/objects/82/f493fb7caa6ab9391688e198be653edc73e9ab"
+hash = "96b57a64cbfc4b0389e0ae8a90fa64ff288d4a70229c4ddc2b22a7459e396ac4"
+
+[[files]]
+file = ".git/objects/91/7ed6659309a8e801c11080eebd61f6a8f5ae5d"
+hash = "52009f762c75cd4e17fc4173ef25dc473315ad4a7b9a1457dc349988709e2b5c"
+
+[[files]]
+file = ".git/objects/a2/25387217f1fc10e8ea121ea3185c6b871b1bda"
+hash = "81e7ac27ed822faa31bf396fa870bbd5b34fadbf88f4a198cfd231f2e98c478a"
+
+[[files]]
+file = ".git/objects/a7/7f95bdc4422435c6046acda998fc4d9d60313e"
+hash = "3cb20351d81143f638aa7f6dc8335d572431f282a1bdcadcc4e745ee568d9705"
+
+[[files]]
+file = ".git/objects/aa/1b1f62663d589c14fdfae92726fba581145894"
+hash = "e6b500ca19052db73af1efd7a6936f8cff1c3703f638e99a499a89576daa9bac"
+
+[[files]]
+file = ".git/objects/aa/1c49c23d5803c2a0fe12bb46e45fc82c9505ab"
+hash = "5069c80266915f1e78e63176c3d3bf35395da40bf82423cb19fab555d43d67bd"
+
+[[files]]
+file = ".git/objects/aa/496c6fe0257c9c4b1e89937d567da96a24f876"
+hash = "0d0408a75470f29312a94160791849c4bd6e7f436ba902d26e4870af00a142b9"
+
+[[files]]
+file = ".git/objects/aa/a40022072ea05b07405015d65312ac563453db"
+hash = "9999ee26b09fbe1bb33bb4a4ce69501b0755d6e0fba304330696fa8a06cd38e2"
+
+[[files]]
+file = ".git/objects/b6/8770a6182f6c8e71feff59f3227993d80dcaf4"
+hash = "61cb3e4de1fdaee1c8dc48589012f8f012d6729ec8e4d013609cf34365ea87da"
+
+[[files]]
+file = ".git/objects/be/671a35a89e5905f40a81d8e98af7e108aca4e9"
+hash = "a913285e7d27310db9a05c7692f982f0d281dfc0057f4cee09414c80d4661f0f"
+
+[[files]]
+file = ".git/objects/bf/b08f38b31d5853e27c0f26d6a4479f77d13303"
+hash = "9b2c82d2a2e556fe6ca5662dc55ace87b1c7a067151099e12597c7966ab808f3"
+
+[[files]]
+file = ".git/objects/e6/313995bd85834293ba19021a14a43438ee69e9"
+hash = "dcfb816e6c8970478b4c35db79bdcc90889fd98435c9e69b05b4a048ee5bc2bb"
+
+[[files]]
+file = ".git/objects/e9/663036b1939395492cfe29c3dcad5fe9861083"
+hash = "68fe11af89de2ee53863e40960edfe4a6b6192f11e18037de4ced33e9c356c22"
+
+[[files]]
+file = ".git/objects/f5/ade2178267f629d1053f8702270d0093a1a584"
+hash = "2e7a095939176481ed263f0065b66060acd9b1f1b3e33e12c30fdee2f025e1e5"
+
+[[files]]
+file = ".git/objects/fd/4d5aaf6d496a7969ad455332ea25e0b69e3bc4"
+hash = "e18fc9a6ad9db2cd22fb0efecef3ed5413a3080f69fc74ba350dba375cbdd011"
+
+[[files]]
+file = ".git/objects/fd/4e8d825c3e1a4811716a1aee2c3fc0a25403bb"
+hash = "ef0ccb2f5b32d1cd0c4047583cf137b9330c63123c69f05939e9c828fb2d5ab1"
+
+[[files]]
+file = ".git/refs/heads/master"
+hash = "d125584702a135d01483efb8759b985421059b978802578943d92b91f2385926"
+
+[[files]]
+file = ".git/refs/remotes/origin/master"
+hash = "d125584702a135d01483efb8759b985421059b978802578943d92b91f2385926"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "08fec15f2de866253ae588500faf91fe3405bc7a2fd89d1f969daa50cc33e6e9"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "9629dbd757d434cb395fae9162b8bddb427b6b64e7137e8e04ca25f0eb558d8a"
+
+[[files]]
 file = "mods/chat-heads.toml"
 hash = "1a722a1dd8932d9f319edfa48df967ef7278566ab9ccb6d7e2dd3eeb883ef415"
 metafile = true
@@ -23,11 +207,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.toml"
 hash = "5cca0414a7bc523e68acc708e5659e5345e647193ab84057cd15cebcef538303"
-metafile = true
-
-[[files]]
-file = "mods/starlight.toml"
-hash = "ba04c6dcfbf7def36b7b0d98331ba663a4a3044c1bba93770c27e548e7912480"
 metafile = true
 
 [[files]]
