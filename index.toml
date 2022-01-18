@@ -6,7 +6,7 @@ hash = "08fec15f2de866253ae588500faf91fe3405bc7a2fd89d1f969daa50cc33e6e9"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "515bdf37c04c7b058182d973c2ccc4bf27b946618648df50bea30b73fd9ed0f4"
+hash = "905586551a351dedf7b25d96dcb6147611ea215545e5b0d55615a9f5e4698e7c"
 
 [[files]]
 file = "mods/fast-furnace-for-fabric.toml"
